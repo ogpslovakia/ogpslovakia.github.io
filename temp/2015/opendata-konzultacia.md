@@ -13,6 +13,7 @@ Mnohé z týchto údajov už sú v súčasnosti prístupné, napr. centrálny re
 S cieľom zistiť, o ktoré údaje máte záujem Vy - verejnosť, biznis sektor a inštitúcie vyhlasuje Úrad splnomocnenca vlády SR pre rozvoj občianskej spoločnosti v spolupráci s Národnou agentúrou pre sieťové a elektronické služby túto verejnú konzultáciu.
 
 Chceme Vás požiadať o zapojenie sa a zodpovedanie na nasledovné typy otázok:
+
 - Ktoré ďalšie údaje spracúvané verejnou správou považujete za dôležité sprístupniť?
 - Je potrebné spôsob sprístupnenia niektorých údajov zlepšiť?
 - Ktoré dáta sú potrebné pre Vás, Vaše aktivity a Vaše podnikanie?
@@ -24,6 +25,7 @@ Odpovede nám prosím zasielajte prostredníctvom elektronického formulára: ht
 Táto verejná konzultácia bude prebiehať do 17.3.2015. Jej závery budú zverejnené na webovom sídle našich organizácií (http://www.tretisektor.gov.sk/, http://nases.gov.sk/) a budú využité na plnenie úloh akčného plánu Iniciatívy pre otvorené vládnutie 2015. Samotné vyplnené dotazníky budú taktiež zverejnené tak, ako nám ich zašlete - s výnimkou mena a identifikácie Vašej organizácie, ktorých zverejnenie je voliteľné. O výsledku budeme taktiež informovať dotknuté organizácie verejnej správy s cieľom podnikať kroky, vedúce k prioritnému publikovaniu tých dát, o ktoré je zo strany používateľov najväčší záujem.
 
 ÚSVROS a NASES zintenzívňujú svoje aktivity v oblasti publikovania otvorených dát spoluprácou na viacerých projektoch:
+
 - správa katalógu datasetov verejnej správy a harmonogramu ich sprístupňovania,
 - prevádzkovanie portálu otvorených dát data.gov.sk a zlepšovanie jeho funkčnosti,
 - vytvorenie centrálnych komponentov pre OpenData v rámci projektu eDemokracia,
