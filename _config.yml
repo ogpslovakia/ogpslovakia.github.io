@@ -7,3 +7,7 @@ tagline:           'Open Government Partnership Slovak Republic'
 description:       ''
 url:               http://ogpslovakia.github.io
 baseurl:           /
+
+github:
+  repo:  https://github.com/ogpslovakia/ogpslovakia.github.io
+
