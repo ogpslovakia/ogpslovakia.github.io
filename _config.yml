@@ -1,1 +1,5 @@
-auto: true
+title:             'OGP Slovakia'
+tagline:           'Open Government Partnership Slovak Republic'
+description:       ''
+url:               http://ogpslovakia.github.io
+baseurl:           /
