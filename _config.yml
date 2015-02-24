@@ -11,3 +11,5 @@ baseurl:           /
 github:
   repo:  https://github.com/ogpslovakia/ogpslovakia.github.io
 
+redcarpet:
+  extensions: [autolink]
