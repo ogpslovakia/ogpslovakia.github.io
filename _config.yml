@@ -1,3 +1,7 @@
+# Dependencies
+markdown:            redcarpet
+
+# Setup
 title:             'OGP Slovakia'
 tagline:           'Open Government Partnership Slovak Republic'
 description:       ''
