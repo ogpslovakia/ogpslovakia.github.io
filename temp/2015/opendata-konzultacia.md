@@ -41,6 +41,6 @@ Ak máte záujem o dianie v oblasti otvorených dát, pozývame Vás tiež na ú
 
 S pozdravom,
 
-**Martin Giertl**, splnomocnenec vlády pre rozvoj občianskej spoločnosti
+**Martin Giertl**, splnomocnenec vlády SR pre rozvoj občianskej spoločnosti
 <br>
 **Rastislav Janota**, generálny riaditeľ, Národná agentúra pre sieťové a elektronické služby
