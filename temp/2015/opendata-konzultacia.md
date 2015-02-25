@@ -11,7 +11,7 @@ organizácie verejnej správy z titulu svojej činnosti zbierajú a spravujú ve
 
 Mnohé z týchto údajov už sú v súčasnosti prístupné, napr. [centrálny register zmlúv](https://www.crz.gov.sk/), [register účtovných závierok](http://www.registeruz.sk/), [obchodný register](http://www.orsr.sk/) či ďalšie uvedené na [Portáli otvorených dát](http://data.gov.sk/).
 
-**S cieľom zistiť, o ktoré údaje máte záujem Vy - verejnosť, biznis sektor a inštitúcie vyhlasuje Úrad splnomocnenca vlády SR pre rozvoj občianskej spoločnosti v spolupráci s Národnou agentúrou pre sieťové a elektronické služby túto verejnú konzultáciu.**
+**S cieľom zistiť, o ktoré údaje máte záujem Vy** - verejnosť, biznis sektor a inštitúcie vyhlasuje Úrad splnomocnenca vlády SR pre rozvoj občianskej spoločnosti v spolupráci s Národnou agentúrou pre sieťové a elektronické služby túto verejnú konzultáciu.
 
 Chceme Vás požiadať o zapojenie sa a zodpovedanie na nasledovné typy otázok:
 
@@ -21,7 +21,7 @@ Chceme Vás požiadať o zapojenie sa a zodpovedanie na nasledovné typy otázok
 - Sú nejaké dáta, ktoré máte k dispozícii Vy a chceli by ste ich poskytnúť v otvorenom formáte iným?
 - Čo potrebujete, čím viete sami prispieť do Open Data ekosystému?
 
-<span style="background-color: yellow;">Odpovede nám prosím zasielajte prostredníctvom elektronického formulára: http://bit.ly/konzultacia2015</span>
+Odpovede nám prosím zasielajte prostredníctvom <span style="background-color: yellow;">elektronického formulára: http://bit.ly/konzultacia2015</span>
 
 Táto verejná konzultácia bude **prebiehať do 17.3.2015**. Jej závery budú zverejnené na webových sídlach našich organizácií ([ÚSVROS](http://www.otvorenavlada.gov.sk/), [NASES](http://nases.gov.sk/)) a budú využité na plnenie úloh akčného plánu Iniciatívy pre otvorené vládnutie 2015. Samotné vyplnené dotazníky budú taktiež zverejnené tak, ako nám ich zašlete - s výnimkou mena a identifikácie Vašej organizácie, ktorých zverejnenie je voliteľné. O výsledku budeme taktiež informovať dotknuté organizácie verejnej správy s cieľom podnikať kroky, vedúce k prioritnému publikovaniu tých dát, o ktoré je zo strany používateľov najväčší záujem.
 
@@ -34,7 +34,7 @@ Táto verejná konzultácia bude **prebiehať do 17.3.2015**. Jej závery budú 
 - medzinárodný projekt COMSODE, v rámci ktorého vznikajú nástroje a metodiky na publikovanie otvorených dát,
 - komunikácia so správcami otvorených dát za účelom ich zverejňovania.
 
-Budeme radi, ak informáciu o prieskume prepošlete ďalej tím, ktorých môže zaujímať - z firiem, neziskových organizácií, ale aj zo štátnej správy a samosprávy (ktorá je nielen "producentom" ale aj dôležitým používateľom dát), či iným záujemcom. Realizáciu tejto verejnej konzultácie zabezpečuje Ján Gondoľ (Jan.Gondol@minv.sk) a Ľubor Illek (Lubor.Illek@nases.gov.sk), ktorí Vám aj radi odpovedia na prípadné ďalšie otázky o jej priebehu a vyhodnotení.
+**Budeme radi, ak informáciu o prieskume prepošlete ďalej** tím, ktorých môže zaujímať - z firiem, neziskových organizácií, ale aj zo štátnej správy a samosprávy (ktorá je nielen "producentom" ale aj dôležitým používateľom dát), či iným záujemcom. Realizáciu tejto verejnej konzultácie zabezpečuje Ján Gondoľ (Jan.Gondol@minv.sk) a Ľubor Illek (Lubor.Illek@nases.gov.sk), ktorí Vám aj radi odpovedia na prípadné ďalšie otázky o jej priebehu a vyhodnotení.
 
 Ak máte záujem o dianie v oblasti otvorených dát, pozývame Vás tiež na účasť vo formálnych a neformálnych aktivitách či už našich organizácií, alebo iných s ktorými sme v kontakte (napr. [Facebooková skupina OpenData.sk](https://www.facebook.com/groups/180824635305518/) alebo [OpenData meetupy](http://opendata.sk/)).
 
