@@ -3,6 +3,9 @@ title: Verejná konzultácia Open Data
 layout: default
 ---
 
+<img src="/public/logo-1050x100.png" align="center" />
+<hr>
+
 *Verejná konzultácia – prioritné datasety verejnej správy*
 
 Vážené dámy, vážení páni,
