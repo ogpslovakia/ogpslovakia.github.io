@@ -44,3 +44,5 @@ S pozdravom,
 **Martin Giertl**, splnomocnenec vlády SR pre rozvoj občianskej spoločnosti
 <br>
 **Rastislav Janota**, generálny riaditeľ, Národná agentúra pre sieťové a elektronické služby
+
+*Informácie o verejnej konzultácii boli uverejnené na oficiálnych vládnych weboch: [ÚSVROS](http://www.tretisektor.gov.sk/vyzva-verejna-konzultacia-datasety-verejnej-spravy/) a [Iniciatíva pre otvorené vládnutie](http://www.otvorenavlada.gov.sk/vyzva-verejna-konzultacia-datasety-verejnej-spravy/).*
