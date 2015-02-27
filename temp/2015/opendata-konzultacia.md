@@ -45,4 +45,4 @@ S pozdravom,
 <br>
 **Rastislav Janota**, generálny riaditeľ, Národná agentúra pre sieťové a elektronické služby
 
-*Informácie o verejnej konzultácii boli uverejnené na oficiálnych vládnych weboch: [ÚSVROS](http://www.tretisektor.gov.sk/vyzva-verejna-konzultacia-datasety-verejnej-spravy/) a [Iniciatíva pre otvorené vládnutie](http://www.otvorenavlada.gov.sk/vyzva-verejna-konzultacia-datasety-verejnej-spravy/).*
+*Informácie o verejnej konzultácii boli uverejnené na oficiálnych weboch (.gov doména): [ÚSVROS](http://www.tretisektor.gov.sk/vyzva-verejna-konzultacia-datasety-verejnej-spravy/) a [Iniciatíva pre otvorené vládnutie](http://www.otvorenavlada.gov.sk/vyzva-verejna-konzultacia-datasety-verejnej-spravy/), [NASES](http://nases.gov.sk/26674/usvros-a-nases-vyhlasuju-verejnu-konzultaciu-s-cielom-zistit-zaujem-o-data-verejnej-spravy.php).*
