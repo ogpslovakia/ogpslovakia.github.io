@@ -35,7 +35,7 @@ Táto verejná konzultácia bude **prebiehať do 17.3.2015**. Jej závery budú 
 - medzinárodný projekt [COMSODE](http://www.comsode.eu/), v rámci ktorého vznikajú nástroje a metodiky na publikovanie otvorených dát,
 - komunikácia so správcami otvorených dát za účelom ich zverejňovania.
 
-**Budeme radi, ak informáciu o prieskume prepošlete ďalej** tím, ktorých môže zaujímať - z firiem, neziskových organizácií, ale aj zo štátnej správy a samosprávy (ktorá je nielen "producentom", ale aj dôležitým používateľom dát), či iným záujemcom. Realizáciu tejto verejnej konzultácie zabezpečuje Ján Gondoľ (Jan.Gondol@minv.sk) a Ľubor Illek (Lubor.Illek@nases.gov.sk), ktorí Vám aj radi odpovedia na prípadné ďalšie otázky o jej priebehu a vyhodnotení.
+**Budeme radi, ak informáciu o prieskume prepošlete ďalej** tým, ktorých môže zaujímať - z firiem, neziskových organizácií, ale aj zo štátnej správy a samosprávy (ktorá je nielen "producentom", ale aj dôležitým používateľom dát), či iným záujemcom. Realizáciu tejto verejnej konzultácie zabezpečuje Ján Gondoľ (Jan.Gondol@minv.sk) a Ľubor Illek (Lubor.Illek@nases.gov.sk), ktorí Vám aj radi odpovedia na prípadné ďalšie otázky o jej priebehu a vyhodnotení.
 
 Ak máte záujem o dianie v oblasti otvorených dát, pozývame Vás tiež na účasť vo formálnych a neformálnych aktivitách či už našich organizácií, alebo iných, s ktorými sme v kontakte (napr. [Facebooková skupina OpenData.sk](https://www.facebook.com/groups/180824635305518/) alebo [OpenData meetupy](http://opendata.sk/)).
 
