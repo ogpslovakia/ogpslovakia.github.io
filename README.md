@@ -5,3 +5,7 @@ Auxiliary web site for Open Government Partnership activities in the Slovak Repu
 # Credits
 
 [Lanyon theme](https://github.com/poole/lanyon) (MIT license).
+
+# License
+
+Original text licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) except where otherwise noted.
