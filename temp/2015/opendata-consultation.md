@@ -22,7 +22,7 @@ We would like to ask you to join this consultation and answer the following type
 - Do you have data which you would like to make available to others in open formats?
 - Are there other ways in which you would like to contribute to the Open Data ecosystem?
 
-Please send us your answers using this electronic form: <span style="background-color: yellow;">**[http://bit.ly/consultation2015 &nbsp;(click here to display the form)](http://bit.ly/consultation2015)**.</span>
+Please send us your answers using this electronic form: <span style="background-color: yellow;">**[http://bit.ly/consultation2015 &nbsp;(click here to display)](http://bit.ly/consultation2015)**.</span>
 
 This public consultation will remain **open until March 17, 2015**. Its results will be published on the web sites of our organizations (ÚSVROS, NASES) and will be used to support the commitments of Slovakia’s Open Government Partnership Action Plan for 2015. The text of your replies will be published and you will have the option to decide whether your name and identification of organization will be displayed or hidden. We will inform the public organizations about the result in order to take steps leading to priority publishing of the most frequently requested data.
 
@@ -44,4 +44,4 @@ Sincerely,
 <br>
 **Rastislav Janota**, Director General, National Agency for Network and Electronic Services (NASES)
 
-*This page is hosted on Github. To verify the authenticity of this information, see the official web sites of the respective organizations (.gov.sk domain, pages in Slovak): [ÚSVROS](http://www.tretisektor.gov.sk/vyzva-verejna-konzultacia-datasety-verejnej-spravy/) a [Iniciatíva pre otvorené vládnutie](http://www.otvorenavlada.gov.sk/vyzva-verejna-konzultacia-datasety-verejnej-spravy/), [NASES](http://nases.gov.sk/26674/usvros-a-nases-vyhlasuju-verejnu-konzultaciu-s-cielom-zistit-zaujem-o-data-verejnej-spravy.php).*
+*This page is hosted on Github. To verify the authenticity of this information, see the official web sites of the respective organizations (.gov.sk domain, pages in Slovak): ÚSVROS ([1](http://www.tretisektor.gov.sk/vyzva-verejna-konzultacia-datasety-verejnej-spravy/), [2](http://www.otvorenavlada.gov.sk/vyzva-verejna-konzultacia-datasety-verejnej-spravy/)), [NASES](http://nases.gov.sk/26674/usvros-a-nases-vyhlasuju-verejnu-konzultaciu-s-cielom-zistit-zaujem-o-data-verejnej-spravy.php).*
