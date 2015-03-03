@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ogpslovakia/ogpslovakia.github.io.png?label=ready&title=Ready)](https://waffle.io/ogpslovakia/ogpslovakia.github.io)
 # Open Government Partnership Slovakia
 
 Auxiliary web site for Open Government Partnership activities in the Slovak Republic. Mixed English-Slovak content. [Main web site here](http://www.otvorenavlada.gov.sk/).
