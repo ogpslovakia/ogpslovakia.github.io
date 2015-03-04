@@ -3,7 +3,7 @@ title: OGP SK home
 layout: default
 ---
 
-**2015-03-04** -- Download Slovakia's [OGP National Action plan 2015](download/2015/nap2015.zip) (final SK version, English translation draft).
+**2015-03-04** -- Download Slovakia's [OGP National Action plan 2015](download/2015/nap2015.zip) (final Slovak version + English translation draft, pending proofreading).
 
 **2015-03-03** -- Open Data Public Consultation (in English): [accompanying letter](http://bit.ly/opendataconsultation), <span style="background-color: yellow;">[survey form](http://bit.ly/consultation2015)</span>.
 
