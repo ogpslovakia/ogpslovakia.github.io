@@ -3,6 +3,8 @@ title: OGP SK home
 layout: default
 ---
 
+**2015-06-30** -- To follow the progress of the fulfillment of Slovakia's OGP Action Plan 2015 commitments (in the Slovak language), please visit the GitHub repository [akcnyplan2015](https://github.com/otvorenavlada/akcnyplan2015).
+
 **2015-03-10** -- Updated document: Slovakia's [OGP National Action plan 2015](download/2015/nap2015.zip) (final Slovak version + English translation release candidate). Big thanks to the expert community (especially [Nicole Allen](https://twitter.com/txtbks) of [SPARC](http://www.sparc.arl.org/)) for help!
 
 **2015-03-04** -- New document: Slovakia's [OGP National Action plan 2015](download/2015/nap2015.zip) (final Slovak version + English translation draft).
